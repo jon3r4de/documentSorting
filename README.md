@@ -37,6 +37,8 @@ Instructions to make the fileDocumentation.py file an executable:
 For mac users: 
 
 1.Open Terminal
+
+
 2. Find the which file its in and key in the file path in the command line 
 
 
