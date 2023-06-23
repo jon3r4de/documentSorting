@@ -28,8 +28,11 @@ Lastly, the solution we’re suggesting requires the application to take in a la
 
 ## Instructions 
 
+Prerequisite: 
 
-Instructions to make the file an executable:
+Make sure to have python installed :)
+
+Instructions to make the fileDocumentation.py file an executable:
 
 For mac users: 
 
@@ -40,11 +43,12 @@ For mac users:
 - [link for help](https://support.apple.com/en-sg/guide/terminal/apddfb31307-3e90-432f-8aa7-7cbc05db27f7/mac#:~:text=In%20the%20Terminal%20app%20on,it%20in%20the%20new%20location.)
 
 3. Once you’re in the file key in the below commands:
+	
 	pip install pyinstaller (if you have python3 installed key in [pip3 install pyinstaller] 
 
-pyinstaller name_of_python_script.py --name name_of_what_you_want_the_app_to_be_called --windowed --onefile
+	pyinstaller name_of_python_script.py --name name_of_what_you_want_the_app_to_be_called --windowed --onefile
 
-pyinstaller name_of_what_you_want_the_app_to_be_called.spec 
+	pyinstaller name_of_what_you_want_the_app_to_be_called.spec 
 
 4. This would create an executable file which would open the gui and script on click 
 
