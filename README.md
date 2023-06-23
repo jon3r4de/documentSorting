@@ -26,7 +26,7 @@ We decided to use Python for our script for documenting the types of documents i
 
 Lastly, the solution we’re suggesting requires the application to take in a large amount of information while looking through files and hence creating a Python script would allow us to efficiently and quickly make up a GUI 
 
-## Instructions 
+## Instructions to run the program
 
 Prerequisite: 
 
@@ -76,7 +76,7 @@ For mac users:
 4. This would create an executable file which would open the gui and script on click 
 
 
-## How the Gui works 
+## For detailed instructions with photos
 
 - [Click me](https://docs.google.com/document/d/1sCcNOIv9fNf_n9Z4UowgdfXjKE5VcrCdsmLcb_UrdcA/edit?usp=sharing)
 
