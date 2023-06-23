@@ -1,9 +1,9 @@
 ## Summary
 
 ## Project Members
-Ang Jon Ming
-Loh Yu tong 
-Low Weisheng Giovanni 
+- [Ang Jon Ming](https://github.com/jon3r4de)
+- [Low WeiSheng Giovanni] (https://github.com/giovannilow)
+- [Loh Yu Tong] (https://github.com/youdonnnn)
 
 
 ## Motivation
