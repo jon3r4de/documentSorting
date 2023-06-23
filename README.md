@@ -76,7 +76,7 @@ For mac users:
 4. This would create an executable file which would open the gui and script on click 
 
 
-## For detailed instructions with photos
+## For detailed usage instructions with photos
 
 - [Click me](https://docs.google.com/document/d/1sCcNOIv9fNf_n9Z4UowgdfXjKE5VcrCdsmLcb_UrdcA/edit?usp=sharing)
 
