@@ -36,7 +36,8 @@ For mac users:
 1.Open Terminal
 2. Find the which file its in and key in the file path in the command line 
 
-https://support.apple.com/en-sg/guide/terminal/apddfb31307-3e90-432f-8aa7-7cbc05db27f7/mac#:~:text=In%20the%20Terminal%20app%20on,it%20in%20the%20new%20location.
+
+- [link for help](https://support.apple.com/en-sg/guide/terminal/apddfb31307-3e90-432f-8aa7-7cbc05db27f7/mac#:~:text=In%20the%20Terminal%20app%20on,it%20in%20the%20new%20location.)
 
 3. Once you’re in the file key in the below commands:
 	pip install pyinstaller (if you have python3 installed key in [pip3 install pyinstaller] 
@@ -50,17 +51,8 @@ pyinstaller name_of_what_you_want_the_app_to_be_called.spec
 
 ## How the Gui works 
 
+- [Click me](https://docs.google.com/document/d/1sCcNOIv9fNf_n9Z4UowgdfXjKE5VcrCdsmLcb_UrdcA/edit?usp=sharing)
 
-You should be able to see the below interface 
-<img width="404" alt="Screenshot 2023-06-23 at 4 41 08 PM" src="https://github.com/jon3r4de/documentSorting/assets/125483479/c31217a6-8a96-4161-a0e9-7e7fc9259907">
-
-
-Upon clicking “Generate File index” it should open a window for you to select which file 
-
-Select the file in which you would like to document what different files there are in it
-
-Once the file is selected you can name the docs with whatever naming convention you would like and you can choose where this document would be saved.
-Below is what the generated docs would look like.
 
 
 
