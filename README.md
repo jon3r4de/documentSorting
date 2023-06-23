@@ -80,6 +80,12 @@ For mac users:
 
 - [Click me](https://docs.google.com/document/d/1sCcNOIv9fNf_n9Z4UowgdfXjKE5VcrCdsmLcb_UrdcA/edit?usp=sharing)
 
+## Testcases 
+
+There is a test case file in which anyone can try our script to see what they can do with it firsthand.
+
+There is also an output file which contains the document output for the test cases.
+
 
 
 
