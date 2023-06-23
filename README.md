@@ -25,3 +25,42 @@ ALD is a step towards significant and expensive pain points in litigation in an 
 We decided to use Python for our script for documenting the types of documents in a file due to several reasons. First, Python is a versatile and powerful programming language known for its simplicity and readability. It allows me to express the logic of the script in a clear and concise manner. Second, Python has a rich ecosystem of libraries and modules that provide extensive functionality for various tasks. In this script, I utilized collections, os, calendar, docx, tkinter, and PIL (Python Imaging Library) to handle file operations, document processing, graphical user interface (GUI) development, and image manipulation. Third, Python is platform-independent, which means the script can run on different operating systems without major modifications. 
 
 Lastly, the solution we’re suggesting requires the application to take in a large amount of information while looking through files and hence creating a Python script would allow us to efficiently and quickly make up a GUI 
+
+## Instructions 
+
+
+Instructions to make the file an executable:
+
+For mac users: 
+
+1.Open Terminal
+2. Find the which file its in and key in the file path in the command line 
+
+https://support.apple.com/en-sg/guide/terminal/apddfb31307-3e90-432f-8aa7-7cbc05db27f7/mac#:~:text=In%20the%20Terminal%20app%20on,it%20in%20the%20new%20location.
+
+3. Once you’re in the file key in the below commands:
+	pip install pyinstaller (if you have python3 installed key in [pip3 install pyinstaller] 
+
+pyinstaller name_of_python_script.py --name name_of_what_you_want_the_app_to_be_called --windowed --onefile
+
+pyinstaller name_of_what_you_want_the_app_to_be_called.spec 
+
+4. This would create an executable file which would open the gui and script on click 
+
+
+## How the Gui works 
+
+
+You should be able to see the below interface 
+<img width="404" alt="Screenshot 2023-06-23 at 4 41 08 PM" src="https://github.com/jon3r4de/documentSorting/assets/125483479/c31217a6-8a96-4161-a0e9-7e7fc9259907">
+
+
+Upon clicking “Generate File index” it should open a window for you to select which file 
+
+Select the file in which you would like to document what different files there are in it
+
+Once the file is selected you can name the docs with whatever naming convention you would like and you can choose where this document would be saved.
+Below is what the generated docs would look like.
+
+
+
