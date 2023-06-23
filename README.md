@@ -20,7 +20,7 @@ ALD is a step towards significant and expensive pain points in litigation in an 
 
 
 
-##TechStack
+## TechStack
 
 We decided to use Python for our script for documenting the types of documents in a file due to several reasons. First, Python is a versatile and powerful programming language known for its simplicity and readability. It allows me to express the logic of the script in a clear and concise manner. Second, Python has a rich ecosystem of libraries and modules that provide extensive functionality for various tasks. In this script, I utilized collections, os, calendar, docx, tkinter, and PIL (Python Imaging Library) to handle file operations, document processing, graphical user interface (GUI) development, and image manipulation. Third, Python is platform-independent, which means the script can run on different operating systems without major modifications. 
 
