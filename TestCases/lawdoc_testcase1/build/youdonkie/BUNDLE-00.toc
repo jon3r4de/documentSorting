@@ -1,0 +1,3 @@
+([('youdonkie',
+   '/Users/jonang/Desktop/Y1/smu hackathon/dist/youdonkie',
+   'EXECUTABLE')],)
