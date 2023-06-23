@@ -32,6 +32,20 @@ Prerequisite:
 
 Make sure to have python installed :)
 
+Depending on your version of pip, you can use “pip install” or “pip3 install”
+
+These are the commands which would help you install the relevant packages required :)
+
+pip install dateparser==1.1.8 
+pip installTransformers==4.30.2
+pip install torch==2.0.1
+pip install torchaudio==2.0.2
+pip install torchvision==0.15.2
+pip install python-docx==0.8.11
+pip install pypdf==3.10.0
+pip install protobuf==3.20.2
+
+
 Instructions to make the fileDocumentation.py file an executable:
 
 For mac users: 
